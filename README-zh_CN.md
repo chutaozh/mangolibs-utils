@@ -85,34 +85,34 @@ console.log(
 
 `isWechat(): boolean` 检查当前是否为微信环境
 
-##### 7. cookieUtil
+##### 7. cookieHandler
 
 ```js
-cookieUtil.get(): object;
-cookieUtil.get(name: string): string;
-cookieUtil.get(names: string[]): object;
-cookieUtil.set(name: string, value: string, options?: ICookieOptions): void;
-cookieUtil.set(props: ICookieProps | ICookieProps[]): void;
-cookieUtil.remove(name: string, options?: IRemoveCookieOptions): void;
-cookieUtil.remove(items: Array<string | IRemoveCookieProps>): void;
-cookieUtil.clear(): void;
+cookieHandler.get(): object;
+cookieHandler.get(name: string): string;
+cookieHandler.get(names: string[]): object;
+cookieHandler.set(name: string, value: string, options?: ICookieOptions): void;
+cookieHandler.set(props: ICookieProps | ICookieProps[]): void;
+cookieHandler.remove(name: string, options?: IRemoveCookieOptions): void;
+cookieHandler.remove(items: Array<string | IRemoveCookieProps>): void;
+cookieHandler.clear(): void;
 ```
 
-##### 8. localStorageUtil
+##### 8. localStorageHandler
 
 ```js
-localStorageUtil.get():object;
-localStorageUtil.get(key: string): any;
-localStorageUtil.get(keys: string[]): object;
-localStorageUtil.set(key: string, value: any): void;
-localStorageUtil.set(obj: object): void;
-localStorageUtil.remove(key: string): void;
-localStorageUtil.remove(keys: string[]): void;
-localStorageUtil.clear(): void;
+localStorageHandler.get():object;
+localStorageHandler.get(key: string): any;
+localStorageHandler.get(keys: string[]): object;
+localStorageHandler.set(key: string, value: any): void;
+localStorageHandler.set(obj: object): void;
+localStorageHandler.remove(key: string): void;
+localStorageHandler.remove(keys: string[]): void;
+localStorageHandler.clear(): void;
 ```
 
-##### 9. sessionStorageUtil
+##### 9. sessionStorageHandler
 
 ```js
-// 与localStorageUtil用法相似
+// 与localStorageHandler用法相似
 ```
