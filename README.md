@@ -1,22 +1,22 @@
-Englist | <a href="https://github.com/chutao-zhang/alibs-utils/blob/master/README-zh_CN.md" target="_blank">中文</a>
+Englist | <a href="https://github.com/chutao-zhang/mango-libs-utils/blob/master/README-zh_CN.md" target="_blank">中文</a>
 
 <p>
-<img alt="npm" src="https://img.shields.io/npm/v/@alibs/utils?logo=npm&color=%234ac41c">
-<img alt="npm" src="https://img.shields.io/npm/dm/@alibs/utils?logo=npm&color=%234ac41c">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/alibs-utils">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/alibs-utils">
+<img alt="npm" src="https://img.shields.io/npm/v/@mango-libs/utils?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/dm/@mango-libs/utils?logo=npm&color=%234ac41c">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/mango-libs-utils">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/mango-libs-utils">
 </p>
 
 ### Installation
 
 ```js
-npm install @alibs/utils
+npm install @mango-libs/utils
 ```
 
 ### Usage
 
 ```js
-import { xxx } from "@alibs/utils";
+import { xxx } from "@mango-libs/utils";
 ```
 
 ### API
