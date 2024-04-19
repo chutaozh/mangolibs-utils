@@ -1,5 +1,12 @@
 <a href="https://github.com/chutao-zhang/alibs-utils/tree/master#readme" target="_blank">Englist</a> | 中文
 
+<p>
+<img alt="npm" src="https://img.shields.io/npm/v/@alibs/utils?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/dm/@alibs/utils?logo=npm&color=%234ac41c">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/alibs-utils">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/alibs-utils">
+</p>
+
 ### 安装
 
 ```js

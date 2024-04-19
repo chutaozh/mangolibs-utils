@@ -1,5 +1,12 @@
 Englist | <a href="https://github.com/chutao-zhang/alibs-utils/blob/master/README-zh_CN.md" target="_blank">中文</a>
 
+<p>
+<img alt="npm" src="https://img.shields.io/npm/v/@alibs/utils?logo=npm&color=%234ac41c">
+<img alt="npm" src="https://img.shields.io/npm/dm/@alibs/utils?logo=npm&color=%234ac41c">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/chutao-zhang/alibs-utils">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/chutao-zhang/alibs-utils">
+</p>
+
 ### Installation
 
 ```js
